@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="gb2312" ?>
+<playlist>
+	<group id="0" name="全部频道">
+		<service id="28253" name="CCTV-2" src="udp://239.0.0.22:6022" />
+		<service id="6868" name="CCTV-7" src="udp://239.0.0.23:6023" />
+		<service id="11478" name="CCTV-10" src="udp://239.0.0.21:6021" />
+	</group>
+</playlist>
